@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="Aksantara.png" alt="Aksantara ITB 2024" width="450"/>
+  <p><i>Aksantara ITB 2024</i></p>
+</div>
+
 # OOP-BangunRuang
 > Implementasi lanjut dari Object Oriented Programming (OOP) pada Bangun Ruang seperti kubus, balok, dan silinder
 
